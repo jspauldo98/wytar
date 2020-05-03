@@ -1,7 +1,4 @@
 # wytar
-Mimics Linux tar command. Written in C
-
-# wytar
 
 wytar is a utility program that mimics the Linux tar utility. It is designed to archive files. This is a project for Linux Programming (COSC 3750).
 
